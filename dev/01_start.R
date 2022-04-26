@@ -18,32 +18,32 @@
 ## either re-run this function, call golem::set_golem_name(), or don't forget
 ## to change the name in the app_sys() function in app_config.R /!\
 ##
-golem::fill_desc(
-  pkg_name = "ShinyMolBio", # The Name of the package containing the App
-  pkg_title = "The Shiny MolBio Website App", # The Title of the package containing the App
-  pkg_description = "The Central Dogma of Molecular Biology", # The Description of the package containing the App
-  author_first_name = "Oriade", # Your First Name
-  author_last_name = "Simpson", # Your Last Name
-  author_email = "s172084@dtu.dk", # Your Email
-  repo_url = "https://github.com/rforbiodatascience22/group_20_shiny"
-)
+#golem::fill_desc(
+##  pkg_name = "ShinyMolBio", # The Name of the package containing the App
+#  pkg_title = "The Shiny MolBio Website App", # The Title of the package containing the App
+#  pkg_description = "The Central Dogma of Molecular Biology", # The Description of the package containing the App
+#  author_first_name = "Oriade", # Your First Name
+#  author_last_name = "Simpson", # Your Last Name
+#  author_email = "s172084@dtu.dk", # Your Email
+#  repo_url = "https://github.com/rforbiodatascience22/group_20_shiny"
+#)
 
 ## Set {golem} options ----
-golem::set_golem_options()
+#golem::set_golem_options()
 
 ## Create Common Files ----
 # quickly modify the description of the project with my name inside the project.
-usethis::use_mit_license("Miss Oriade Latifah Simpson") # You can set another license here
-usethis::use_readme_rmd(open = FALSE)
+#usethis::use_mit_license("Miss Oriade Latifah Simpson") # You can set another license here
+#usethis::use_readme_rmd(open = FALSE)
 # quickly create a vignette
-usethis::use_vignette("ShinyMolBio", "Central Dogma of Molecular Biology")
-usethis::use_code_of_conduct(contact = "Miss Oriade Latifah Simpson")
-usethis::use_lifecycle_badge("Experimental")
-usethis::use_news_md(open = FALSE)
+#usethis::use_vignette("ShinyMolBio", "Central Dogma of Molecular Biology")
+#usethis::use_code_of_conduct(contact = "Miss Oriade Latifah Simpson")
+#usethis::use_lifecycle_badge("Experimental")
+#usethis::use_news_md(open = FALSE)
 
 ## Add helper functions ----
-golem::use_utils_ui(with_test = TRUE)
-golem::use_utils_server(with_test = TRUE)
+#golem::use_utils_ui(with_test = TRUE)
+#golem::use_utils_server(with_test = TRUE)
 
 # go to dev/02_dev.R
 rstudioapi::navigateToFile("dev/02_dev.R")

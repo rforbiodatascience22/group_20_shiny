@@ -1,19 +1,19 @@
 Package: ShinyMolBio
 Title: The Shiny MolBio Website App
 Version: 0.0.0.9000
-Authors@R: 
-c(person(given = 'Oriade', '
-         family = 'Simpson',
-         email = 's172084@dtu.dk', 
-         role = c('cre', 'aut'),
-  person(given = "MOLS",
-           family = "MOLS",
-           role = "aut", 
-           email = "orie.simpson@gmail.com"), 
-    person(given = "firstname",
-           family = "lastname",
-           role = "aut",
-           email = "your@email.com"))
+Authors@R:
+       c(person(given = 'Oriade', 
+                family = 'Simpson',
+                email = 's172084@dtu.dk', 
+                role = c('cre', 'aut'),
+         person(given = 'MOLS',
+                family = 'MOLS',
+                role = 'aut',
+                email = 'orie.simpson@gmail.com'),
+         person(given = 'Hansel',
+                family = 'Grettel',
+                role = 'aut',
+                email = 'hanselandgrettel@gmail.com')))
 Description: The Central Dogma of Molecular Biology
 License: MIT + file LICENSE
 Imports: 

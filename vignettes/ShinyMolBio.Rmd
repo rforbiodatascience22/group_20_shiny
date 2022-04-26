@@ -17,3 +17,20 @@ knitr::opts_chunk$set(
 ```{r setup}
 library(ShinyMolBio)
 ```
+
+```{r}
+Author@R:
+  c(person(given = "Oriade", 
+            family = "Simpson",
+            email = "s172084@dtu.dk", 
+            role = c("cre", "aut"),
+         person(given = "MOLS",
+                family = "MOLS",
+                role = "aut",
+                email = "orie.simpson@gmail.com"),
+         person(given = "Hansel",
+                family = "Grettel",
+                role = "aut",
+                email = "haselandgrettel@email.com")))
+```
+
