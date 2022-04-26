@@ -36,7 +36,7 @@
 #usethis::use_mit_license("Miss Oriade Latifah Simpson") # You can set another license here
 #usethis::use_readme_rmd(open = FALSE)
 # quickly create a vignette
-#usethis::use_vignette("ShinyMolBio", "Central Dogma of Molecular Biology")
+usethis::use_vignette("ShinyMolBio", "Central Dogma of Molecular Biology")
 #usethis::use_code_of_conduct(contact = "Miss Oriade Latifah Simpson")
 #usethis::use_lifecycle_badge("Experimental")
 #usethis::use_news_md(open = FALSE)

@@ -15,10 +15,10 @@ knitr::opts_chunk$set(
 ```
 
 ```{r setup}
-library(ShinyMolBio)
+#library(ShinyMolBio)
 ```
 
-```{r}
+```{r eval=FALSE}
 Author@R:
   c(person(given = "Oriade", 
             family = "Simpson",
