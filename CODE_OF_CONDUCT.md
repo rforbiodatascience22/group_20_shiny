@@ -9,12 +9,11 @@ identity and expression, level of experience, education, socio-economic status,
 nationality, personal appearance, race, religion, or sexual identity and
 orientation.
 
-We pledge to act and interact in ways that contribute to an open, welcoming,
-diverse, inclusive, and healthy community.
+We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
 
 ## Our Standards
 
-Examples of behavior that contributes to a positive environment for our
+Examples of behaviour that contributes to a positive environment for our
 community include:
 
 * Demonstrating empathy and kindness toward other people
@@ -25,7 +24,7 @@ and learning from the experience
 * Focusing on what is best not just for us as individuals, but for the overall
 community
 
-Examples of unacceptable behavior include:
+Examples of unacceptable behaviour include:
 
 * The use of sexualized language or imagery, and sexual attention or
 advances of any kind
@@ -33,8 +32,7 @@ advances of any kind
 * Public or private harassment
 * Publishing others' private information, such as a physical or email
 address, without their explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
-professional setting
+* Other conduct which could reasonably be considered inappropriate in a professional setting
 
 ## Enforcement Responsibilities
 
@@ -58,8 +56,8 @@ representative at an online or offline event.
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at Miss Oriade Latifah Simpson. 
+Instances of abusive, harassing, or otherwise unacceptable behaviour may be
+reported to the community leaders responsible for enforcement. 
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
@@ -72,7 +70,7 @@ the consequences for any action they deem in violation of this Code of Conduct:
 
 ### 1. Correction
 
-**Community Impact**: Use of inappropriate language or other behavior deemed
+**Community Impact**: Use of inappropriate language or other behaviour deemed
 unprofessional or unwelcome in the community.
 
 **Consequence**: A private, written warning from community leaders, providing
@@ -105,7 +103,7 @@ Violating these terms may lead to a permanent ban.
 ### 4. Permanent Ban
 
 **Community Impact**: Demonstrating a pattern of violation of community
-standards, including sustained inappropriate behavior, harassment of an
+standards, including sustained inappropriate behaviour, harassment of an
 individual, or aggression toward or disparagement of classes of individuals.
 
 **Consequence**: A permanent ban from any sort of public interaction within the
