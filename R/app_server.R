@@ -9,7 +9,7 @@
 app_server <- function(input, output, session) {
   # Your application server logic
   # Make the number 10
-  numb <- reactive(input$a * 2)
+  numb <- reactive(input$a)
 
   # use the module to make the DNA to protein.
   dna <- reactive(make_dna(numb()))
