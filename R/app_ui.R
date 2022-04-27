@@ -11,7 +11,7 @@ app_ui <- function(request) {
     # Your application UI logic
     fluidPage(
       h1("ShinyMolBio"),
-      h2("This is the shiny app")
+      h2("This is the shiny app UI")
     )
   )
 }
