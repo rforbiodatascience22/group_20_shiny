@@ -39,12 +39,9 @@ devtools::install_github("rforbiodatascience22/group_20_shiny")
 
 ## Usage 
 
-```{r example}
-library(ShinyMolBio)
+The link for the actual shiny app is: 
 
-# There is only one function inside of here... 
-ShinyMolBio::run_app()
-```
+https://b9vpkb-oriade-simpson.shinyapps.io/shinymolbio/
 
 ***
 
