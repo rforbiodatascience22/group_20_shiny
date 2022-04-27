@@ -25,8 +25,6 @@ You can install the development version of `ShinyMolBio` from
 devtools::install_github("rforbiodatascience22/group_20_shiny")
 ```
 
-The link to the Github repository is :
-
 ------------------------------------------------------------------------
 
 ## Usage

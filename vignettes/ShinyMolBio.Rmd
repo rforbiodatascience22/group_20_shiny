@@ -1,5 +1,5 @@
 ---
-title: "Central Dogma of Molecular Biology"
+title: "ShinyMolBio"
 output: rmarkdown::html_vignette
 vignette: >
   %\VignetteIndexEntry{Central Dogma of Molecular Biology}
@@ -29,8 +29,6 @@ Author@R:
                 role = "aut",
                 email = "orie.simpson@gmail.com"))
 ```
-
-# ShinyMolBio
 
 <!-- badges: start -->
 <!-- badges: end -->
