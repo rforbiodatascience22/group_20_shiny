@@ -25,3 +25,4 @@ app_server <- function(input, output, session) {
   output$oProt <- renderText(protein())
   output$obar <- renderPlot(chart(), res = 96)
 }
+
