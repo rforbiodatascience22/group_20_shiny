@@ -11,7 +11,12 @@ app_ui <- function(request) {
     # Your application UI logic
     fluidPage(
       h1("ShinyMolBio"),
-      h2("This is the shiny app UI")
+      p("Choose a number to represent the quantity of nucleotides in a simulated DNA sequence", class = "my-class1"),
+
+      # create an slider asking for a number
+      sliderInput("a", "Move the slider to enter a number: ", value = 50, min = 0, max = 100)
+
+      # ----------------------------------------------
     )
   )
 }
