@@ -39,7 +39,7 @@ devtools::install_github("rforbiodatascience22/group_20_shiny")
 
 ## Usage 
 
-The link for the actual shiny app is: 
+Please head to the following webpage to use the app. 
 
 https://b9vpkb-oriade-simpson.shinyapps.io/shinymolbio/
 
