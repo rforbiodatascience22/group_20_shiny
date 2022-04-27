@@ -41,6 +41,9 @@ devtools::install_github("rforbiodatascience22/group_20_shiny")
 
 ```{r example}
 library(ShinyMolBio)
+
+# There is only one function inside of here... 
+ShinyMolBio::run_app()
 ```
 
 ***

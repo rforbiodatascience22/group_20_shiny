@@ -31,7 +31,12 @@ devtools::install_github("rforbiodatascience22/group_20_shiny")
 
 ``` r
 library(ShinyMolBio)
+
+# There is only one function inside of here... 
+ShinyMolBio::run_app()
 ```
+
+<div style="width: 100% ; height: 400px ; text-align: center; box-sizing: border-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box;" class="muted well">Shiny applications not supported in static R Markdown documents</div>
 
 ------------------------------------------------------------------------
 
